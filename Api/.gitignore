@@ -1,0 +1,9 @@
+venv
+__pycache__
+*.log
+*.pot
+*.pyc
+.env
+.pytest_cache
+.coverage
+__pycache__/
